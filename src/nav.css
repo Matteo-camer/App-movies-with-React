@@ -1,0 +1,7 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #242424;
+    color: #fff;
+}
